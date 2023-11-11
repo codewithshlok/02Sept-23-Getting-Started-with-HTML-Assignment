@@ -1,0 +1,20 @@
+Question 4:-. Write a short note on Tag and element with an example.
+
+Answer :- 
+Tag:
+An HTML tag is a snippet of code enclosed within angle brackets ("<" and ">") that defines the purpose and
+structure of a specific element on a webpage. Tags are used to instruct the web browser how to display the
+content they enclose. Tags usually come in pairs: an opening tag and a closing tag, with the name of the
+element enclosed within the tags.
+
+<h1> This is heading.</h1>
+
+In this example, <h1> is the opening tag, and </h1> is the closing tag. The content "This is heading." is the
+text within the heading element.
+
+Element:
+An HTML element is a complete unit that includes an opening tag, content, and a closing tag. It represents a
+distinct part of a webpage's content or structure. Elements are composed of tags and the content enclosed
+between those tags.
+In the example, <h1> is the opening tag, "This is heading." is the content, and </h1> is the closing tag.
+Together, they form the complete <h1> element, representing a heading of text.

@@ -1,0 +1,2 @@
+Question:- What is the Doctype declaration in html ?
+Answer:- The Doctype declaration also referred to as the HTML document type declaration , is an essential line of code that must be include at the beggining of every HTML Document.  Its purpose is to inform the web browser about the specific version of HTML that the page is written in, ensuring consistent parsing across different browsers
